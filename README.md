@@ -1,42 +1,26 @@
 # Ecommerce-Website-College-Project
-Final Year Project for students as Ecommerce website especially different webpages. Top class Website Development project that made by combination of front end programming languages such as HTML, CSS &amp; JS.
+Final Year Project for students as an Ecommerce website, showcasing different webpages. This top-class website development project utilizes a combination of front-end programming languages such as HTML, CSS, and JavaScript.
 
-Tech : HTML & CSS
-
-### Click on play button see Demo:
-
-https://user-images.githubusercontent.com/28294942/137707143-5db5ccac-f475-42b5-9065-0788094b70db.mov
-
+Group Members:
+Khaled Mohamed
+Ahmed Tarek
+Shaikh Mariyam
 
 
-**You Can use this Beautiful Project for your college Project and get good marks too.**
+### Technologies Used:
+- HTML
+- CSS
+- JavaScript
 
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
+** Project Description: **
+This project is an open-source web development project designed for educational purposes. It demonstrates a functional ecommerce website with various features such as product listings, detailed product pages, and a shopping cart system. The goal is to provide a comprehensive example of web development using modern technologies.
 
-💌 Feel free to contact me for any kind of help on any projects.
- 
-### HOW TO RUN THE PROJECT-
-⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report with Code to run the project with source Code.
+**Features: **
+- Homepage: Displays featured products and categories.
+- Product Pages: Detailed view of individual products with add-to-cart functionality.
+- Shopping Cart: Allows users to view items in their cart, update quantities, and remove items.
+- User Authentication: Includes sign-up and login pages for user session management.
+- Responsive Design: Ensures compatibility with various screen sizes and devices.
 
-### Need Code, Documents & Explanation video ? 
-
-## How to Reach me :
-
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-### More Web Dev Project : https://youtube.com/playlist?list=PL5g-9zkOohaFVr4-D344gUd-2vGMot-18&si=7Z--kjOJghZno4bv
-
-Mail/Message me for Projects Help 🙏🏻
-
-### Liked Project?
-If you Like Idea/ Research Paper/Project then Mail or Click on Star button🙏🏻
-
-**This is Open Source Web development Project**
-
-### Web Development Projects Playlist : https://youtube.com/playlist?list=PL5g-9zkOohaFVr4-D344gUd-2vGMot-18
+**Contribution: **
+We welcome contributions to improve the project. Please feel free to fork the repository and submit pull requests.
