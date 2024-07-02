@@ -12,7 +12,7 @@ Shaikh Mariyam
 - CSS
 - JavaScript
 
-** Project Description: **
+### Project Description: 
 This project is an open-source web development project designed for educational purposes. It demonstrates a functional ecommerce website with various features such as product listings, detailed product pages, and a shopping cart system. The goal is to provide a comprehensive example of web development using modern technologies.
 
 ### Features: 
