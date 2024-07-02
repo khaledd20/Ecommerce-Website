@@ -2,9 +2,9 @@
 Final Year Project for students as an Ecommerce website, showcasing different webpages. This top-class website development project utilizes a combination of front-end programming languages such as HTML, CSS, and JavaScript.
 
 Group Members:
-Khaled Mohamed
-Ahmed Tarek
-Shaikh Mariyam
+- Khaled Mohamed
+- Ahmed Tarek
+- Shaikh Mariyam
 
 
 ### Technologies Used:
